@@ -46,10 +46,10 @@ FTR, binaries compiled with the above options still run perfectly on 10.11.x.
 
 ### Related tools and links
 
-[redsock bios decoder](http://nologic.com/redsock_bios_decoder.zip)
-[Easy IOReg Extraction (DSDT, SSDT, Video BIOS, ...)](https://www.tonymacx86.com/threads/easy-ioreg-extraction-dsdt-ssdt-video-bios.81174/)
-[Getting all available framebuffers](https://www.tonymacx86.com/threads/apple-intel-amd-ati-framebuffers.112299/)
-[AMD Graphics Guide | Rampage Dev](http://www.rampagedev.com/?page_id=82)
+ - [redsock bios decoder](http://nologic.com/redsock_bios_decoder.zip)
+ - [Easy IOReg Extraction (DSDT, SSDT, Video BIOS, ...)](https://www.tonymacx86.com/threads/easy-ioreg-extraction-dsdt-ssdt-video-bios.81174/)
+ - [Getting all available framebuffers](https://www.tonymacx86.com/threads/apple-intel-amd-ati-framebuffers.112299/)
+ - [AMD Graphics Guide | Rampage Dev](http://www.rampagedev.com/?page_id=82)
 
 
 
